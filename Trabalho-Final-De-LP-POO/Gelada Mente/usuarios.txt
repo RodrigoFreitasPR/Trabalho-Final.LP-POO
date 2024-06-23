@@ -1,0 +1,8 @@
+ Rodrigo,123.456.789-00,Casablanca1010,asd@gmail.com,123456
+
+Rodrigo,123.456.789-00,Casablanca 1010,asd@gmail.com,123456
+
+Rodrigo,123.456.789-90,Casablanca 1030,asd@gmail.com,123456
+
+Pix da Silva Jr,123.456.789-00,Rua 123 da silva 4,asd@gmail.com,123
+
