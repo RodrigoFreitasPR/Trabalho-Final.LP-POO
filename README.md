@@ -1,7 +1,6 @@
-# Trabalho-Final.LP-POO
-
 ## Geladamente: Distribuidora de Bebidas Online 🍹
 Bem-vindo ao projeto Geladamente! Aqui, transformamos a sua sede em um clique, oferecendo uma experiência de compra online para bebidas como você nunca viu.
+![GeladaMente](https://github.com/RodrigoFreitasPR/Trabalho-Final.LP-POO/assets/145240542/b369c065-bf6d-42b7-a4ff-7fd40a2f3dfe)
 
 ## Funcionalidades do Sistema 🚀
 # Navegando pela Loja 🛍️
