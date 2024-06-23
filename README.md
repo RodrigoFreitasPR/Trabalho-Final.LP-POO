@@ -71,3 +71,5 @@ https://github.com/RodrigoFreitasPR/Trabalho-Final.LP-POO/assets/145240542/a0e12
 * Login: Entre com suas credenciais ou crie uma conta nova.
 Divirta-se: Explore a loja, adicione itens ao carrinho, faça o pagamento e aproveite suas compras!
 Este projeto é uma demonstração de um sistema de vendas simples em Java, mas com uma interface gráfica amigável e funcionalidades essenciais para tornar sua experiência de compra online super agradável. Boa diversão e boas compras! 🥂
+## Diagrama de Classes 📊 
+![23014002-bdf7-46ff-97dc-54a9313a106c-_1_](https://github.com/RodrigoFreitasPR/Trabalho-Final.LP-POO/assets/145240542/9e5f1b5c-f77f-4d47-9df9-a2ccc9c734f2)
