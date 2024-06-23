@@ -54,6 +54,10 @@ Bem-vindo ao projeto Geladamente! Aqui, transformamos a sua sede em um clique, o
 * Vídeo de Demonstração 🎥
 
 
+https://github.com/RodrigoFreitasPR/Trabalho-Final.LP-POO/assets/145240542/a0e126b9-f74f-4b80-88d3-482b89aa2a3c
+
+
+
 # Como Rodar o Projeto ▶️
 * Pré-requisitos: Certifique-se de ter o JDK (Java Development Kit) instalado.
 
